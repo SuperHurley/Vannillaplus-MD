@@ -1,0 +1,10 @@
+type: Liquid
+name:Diesel Fuel
+description: Common Diesel fuel, flammable.
+effect:tarred
+explosiveness:0.05
+heatCapacity:4
+viscosity:0.5
+flammability:1.5
+color:gray
+"liquid-diesel.png"

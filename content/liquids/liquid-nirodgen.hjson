@@ -1,0 +1,10 @@
+type: liquid
+name: Liquid Nitrogen
+description: Less Effective than cryo fluid, easyer to get and use as a coolant.
+research: water
+color:#ADD8E6
+effect: freezing
+viscosity:0.58
+heatCapacity:0.7
+temperature:0
+"liquid-nitrodgen.png"

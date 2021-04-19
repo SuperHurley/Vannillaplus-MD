@@ -1,0 +1,12 @@
+type: Block
+name:  Methane Ice extractor
+description: Extracts Methane ice from the sea floor.
+research:Pneumatic Drill
+hasItems:true
+solid:true
+configurable:false
+consumesPower:true
+capacity:10
+usage:0.5\
+outputItem: Methane Ice
+"liquid-methane-extracter.png"
