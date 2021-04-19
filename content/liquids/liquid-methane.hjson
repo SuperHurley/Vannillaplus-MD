@@ -1,9 +1,0 @@
-type: liquid
-name: Liquid Methane
-description: Manufactered from methane ice, highly flammable and used in the production of anti freeze.
-flammability:2.5
-viscosity:0.6
-explosiveness0.15
-effect:tarred
-color:orange
-<liquid-methane.png>

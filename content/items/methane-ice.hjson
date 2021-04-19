@@ -1,9 +1,0 @@
-type: material
-name: Methane Ice 
-description: Actually called Methane clathrate, its basically methane in the ice. Flammable
-research: coal
-explosiveness: 0.1
-flammability:o.45
-cost:60
-alwaysUnlocked: false
-color:orange
